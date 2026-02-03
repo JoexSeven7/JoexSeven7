@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I’m a Software Developer currently pursuing my [Bachelor’s degree in Software Development at BYU–Idaho](https://byupw.instructure.com/). I work at Cecure Intelligence Limited, building real-world applications and sharpening my skills every day.
+- 🌱 My  Name is John Joshua, and I’m a Software Developer currently pursuing my [Bachelor’s degree in Software   Development at BYU–Idaho](https://byupw.instructure.com/). I work at Cecure Intelligence Limited, building real-world applications and sharpening my skills every day.
 
-I love turning ideas into working products clean interfaces, solid logic, and systems that actually help people. Right now, I’m also building a startup called Oil7, learning entrepreneurship alongside development.
+- 🔭 I love turning ideas into working products clean interfaces, solid logic, and systems that actually help people.   Right now, I’m also building a startup called Oil7, learning entrepreneurship alongside development.
 
-I believe in steady growth, creativity, and building things that matter.
+- ⚡ I believe in steady growth, creativity, and building things that matter.
 
 
 <!--
